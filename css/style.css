@@ -1,0 +1,43 @@
+.avatar{
+    border-radius: 50%;
+}
+body{
+    margin: 0;
+    background-color: #eaf6f6;
+    text-align: center;
+    font-family: verdana, sans-serif;
+}
+h1{
+    color: #66bfbf;
+    padding-top: 200px;
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+    margin: 1px;
+}
+h2{
+    color: #66bfbf;
+    margin-top: 2px;
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    width: 13%;
+    position: absolute;
+    right: 400px;
+    top: 100px;
+}
+.bottom-cloud{
+    width: 12%;
+    position: absolute;
+    left: 500px;
+    top: 500px;
+    bottom: 300px;
+}
+.mountain1{
+    width: 799px;;
+    padding-bottom: 0;
+
+}
